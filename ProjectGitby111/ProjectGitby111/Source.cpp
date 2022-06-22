@@ -9,5 +9,5 @@ void main()
 	cout << "Привет";
 	cout << "\n";
 
-
+	system("pause");
 }
