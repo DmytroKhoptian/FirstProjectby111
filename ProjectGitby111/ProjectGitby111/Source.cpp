@@ -5,9 +5,11 @@ using namespace std;
 
 void main()
 {
-	setlocale(LC_ALL, "Russian");
+	setlocale(LC_ALL, "");
 	cout << "Привет";
 	cout << "\n";
 
 	system("pause");
+
+
 }
